@@ -1,7 +1,7 @@
 name: CHARLES HOFFMAN PHOTOGRAPHY
 favicon: null
-layout_spectrum: 0.9976
-typography_spectrum: 0.3151541955303401
+layout_spectrum: 0.25696
+typography_spectrum: 0.50726
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#867259'
+    - '#c0a882'
+    - '#d4d4ca'
+    - '#44290e'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
