@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CHARLES HOFFMAN PHOTOGRAPHY]]></title>
         <description><![CDATA[CHARLES HOFFMAN PHOTOGRAPHY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/charles-hoffman-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 21:01:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 21:40:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/charles-hoffman-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Custom Home Builder...]]></title>
             <description><![CDATA[<article><h1>Custom Home Builder...</h1><p>Architectural Photography</p></article>]]></description>
-            <link>undefinedcustom-home-builder/index.html</link>
+            <link>https://thegrid.ai/charles-hoffman-photography/custom-home-builder/index.html</link>
             <guid isPermaLink="false">a3d79989-f1cb-4f1a-a4c7-8d1c5457d0ca</guid>
-            <pubDate>Mon, 08 Feb 2016 21:01:18 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 21:40:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
