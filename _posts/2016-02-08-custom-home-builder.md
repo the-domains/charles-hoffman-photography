@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Custom home building...this builder has created some fine homes in the Boise area..
-datePublished: '2016-02-08T23:54:23.174Z'
-dateModified: '2016-02-08T23:54:19.808Z'
+datePublished: '2016-02-08T23:59:20.467Z'
+dateModified: '2016-02-08T23:59:15.652Z'
 title: Custom Home Builder...
 author: []
 sourcePath: _posts/2016-02-08-custom-home-builder.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: custom-home-builder/index.html
-_type: Article
+_type: WebPage
 
 ---
 Architectural Photography
